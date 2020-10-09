@@ -1,101 +1,103 @@
 {
+   "mapa1" : "/fraternidad/assets/imagenes/mapa/1.png",
+   "mapa2" : "/fraternidad/assets/imagenes/mapa/2.png",
   "programacion": [
     {
       "id": 1,
       "titulo": "jueves 8 de Octubre",
-      "imagen": "assets/imagenes/programacion/2.png"
+      "imagen": "/fraternidad/assets/imagenes/programacion/2.png"
     },
     {
       "id": 2,
       "titulo": "viernes 9 de Octubre",
-      "imagen": "assets/imagenes/programacion/3.png"
+      "imagen": "/fraternidad/assets/imagenes/programacion/3.png"
     },
     {
       "id": 3,
       "titulo": "sabado 10 de Octubre",
-      "imagen": "assets/imagenes/programacion/4.png"
+      "imagen": "/fraternidad/assets/imagenes/programacion/4.png"
     },
     {
       "id": 4,
       "titulo": "domingo 11 de Octubre",
-      "imagen": "assets/imagenes/programacion/5.png"
+      "imagen": "/fraternidad/assets/imagenes/programacion/5.png"
     }
   ],
   "participantes": [
     {
       "id": 1,
       "nombre": "Camaron Camarita",
-      "imagenes": ["assets/imagenes/cartas/camaroncamarita/1.jpeg"]
+      "imagenes": ["/fraternidad/assets/imagenes/cartas/camaroncamarita/1.jpeg"]
     },
     {
       "id": 2,
       "nombre": "Corona",
       "imagenes": [
-        "assets/imagenes/cartas/corona/1.png",
-        "assets/imagenes/cartas/corona/2.png",
-        "assets/imagenes/cartas/corona/3.png",
-        "assets/imagenes/cartas/corona/4.png",
-        "assets/imagenes/cartas/corona/5.png",
-        "assets/imagenes/cartas/corona/6.png"
+        "/fraternidad/assets/imagenes/cartas/corona/1.png",
+        "/fraternidad/assets/imagenes/cartas/corona/2.png",
+        "/fraternidad/assets/imagenes/cartas/corona/3.png",
+        "/fraternidad/assets/imagenes/cartas/corona/4.png",
+        "/fraternidad/assets/imagenes/cartas/corona/5.png",
+        "/fraternidad/assets/imagenes/cartas/corona/6.png"
       ]
     },
     {
       "id": 3,
       "nombre": "Crepes",
-      "imagenes": ["assets/imagenes/cartas/crepes/1.jpeg"]
+      "imagenes": ["/fraternidad/assets/imagenes/cartas/crepes/1.jpeg"]
     },
     {
       "id": 4,
       "nombre": "Directo a la Mesa",
-      "imagenes": ["assets/imagenes/cartas/directoalamesa/1.jpeg"]
+      "imagenes": ["/fraternidad/assets/imagenes/cartas/directoalamesa/1.jpeg"]
     },
     {
       "id": 5,
       "nombre": "Frambuesa",
       "imagenes": [
-        "assets/imagenes/cartas/frambuesa/1.jpeg",
-        "assets/imagenes/cartas/frambuesa/2.jpeg",
-        "assets/imagenes/cartas/frambuesa/3.jpeg",
-        "assets/imagenes/cartas/frambuesa/4.jpeg",
-        "assets/imagenes/cartas/frambuesa/5.jpeg"
+        "/fraternidad/assets/imagenes/cartas/frambuesa/1.jpeg",
+        "/fraternidad/assets/imagenes/cartas/frambuesa/2.jpeg",
+        "/fraternidad/assets/imagenes/cartas/frambuesa/3.jpeg",
+        "/fraternidad/assets/imagenes/cartas/frambuesa/4.jpeg",
+        "/fraternidad/assets/imagenes/cartas/frambuesa/5.jpeg"
       ]
     },
     {
       "id": 6,
       "nombre": "Mrs Mazorca",
       "imagenes": [
-        "assets/imagenes/cartas/mrsmazorca/1.jpeg",
-        "assets/imagenes/cartas/mrsmazorca/2.jpeg"
+        "/fraternidad/assets/imagenes/cartas/mrsmazorca/1.jpeg",
+        "/fraternidad/assets/imagenes/cartas/mrsmazorca/2.jpeg"
       ]
     },
     {
       "id": 7,
       "nombre": "Nativos",
-      "imagenes": ["assets/imagenes/cartas/nativos/1.jpeg"]
+      "imagenes": ["/fraternidad/assets/imagenes/cartas/nativos/1.jpeg"]
     },
     {
       "id": 8,
       "nombre": "Nescafe",
-      "imagenes": ["assets/imagenes/cartas/nescafe/1.jpeg"]
+      "imagenes": ["/fraternidad/assets/imagenes/cartas/nescafe/1.jpeg"]
     },
     {
       "id": 9,
       "nombre": "Sandwich Shop",
       "imagenes": [
-        "assets/imagenes/cartas/sandwichshop/1.jpeg",
-        "assets/imagenes/cartas/sandwichshop/2.jpeg",
-        "assets/imagenes/cartas/sandwichshop/3.jpeg",
-        "assets/imagenes/cartas/sandwichshop/4.jpeg"
+        "/fraternidad/assets/imagenes/cartas/sandwichshop/1.jpeg",
+        "/fraternidad/assets/imagenes/cartas/sandwichshop/2.jpeg",
+        "/fraternidad/assets/imagenes/cartas/sandwichshop/3.jpeg",
+        "/fraternidad/assets/imagenes/cartas/sandwichshop/4.jpeg"
       ]
     },
     {
       "id": 10,
       "nombre": "Sucus",
       "imagenes": [
-        "assets/imagenes/cartas/sucus/1.jpeg",
-        "assets/imagenes/cartas/sucus/2.jpeg",
-        "assets/imagenes/cartas/sucus/3.jpeg",
-        "assets/imagenes/cartas/sucus/4.jpeg"
+        "/fraternidad/assets/imagenes/cartas/sucus/1.jpeg",
+        "/fraternidad/assets/imagenes/cartas/sucus/2.jpeg",
+        "/fraternidad/assets/imagenes/cartas/sucus/3.jpeg",
+        "/fraternidad/assets/imagenes/cartas/sucus/4.jpeg"
       ]
     }
   ],
@@ -104,59 +106,59 @@
       "id": 1,
       "nombre": "Antojo Saludable",
       "imagenes": [
-        "assets/imagenes/emprendimiento/antojosaludable/1.jpeg",
-        "assets/imagenes/emprendimiento/antojosaludable/2.jpeg",
-        "assets/imagenes/emprendimiento/antojosaludable/3.jpeg",
-        "assets/imagenes/emprendimiento/antojosaludable/4.jpeg",
-        "assets/imagenes/emprendimiento/antojosaludable/5.jpeg",
-        "assets/imagenes/emprendimiento/antojosaludable/6.jpeg"
+        "/fraternidad/assets/imagenes/emprendimiento/antojosaludable/1.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/antojosaludable/2.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/antojosaludable/3.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/antojosaludable/4.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/antojosaludable/5.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/antojosaludable/6.jpeg"
       ]
     },
     {
       "id": 2,
       "nombre": "Celchi Pan de Arroz",
       "imagenes": [
-        "assets/imagenes/emprendimiento/celchi/1.jpeg",
-        "assets/imagenes/emprendimiento/celchi/2.jpeg",
-        "assets/imagenes/emprendimiento/celchi/3.jpeg",
-        "assets/imagenes/emprendimiento/celchi/4.jpeg",
-        "assets/imagenes/emprendimiento/celchi/5.jpeg",
-        "assets/imagenes/emprendimiento/celchi/6.jpeg",
-        "assets/imagenes/emprendimiento/celchi/7.jpeg",
-        "assets/imagenes/emprendimiento/celchi/8.jpeg"
+        "/fraternidad/assets/imagenes/emprendimiento/celchi/1.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/celchi/2.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/celchi/3.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/celchi/4.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/celchi/5.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/celchi/6.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/celchi/7.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/celchi/8.jpeg"
       ]
     },
     {
       "id": 3,
       "nombre": "Griegos Panchita",
       "imagenes": [
-        "assets/imagenes/emprendimiento/griegospanchita/1.jpeg",
-        "assets/imagenes/emprendimiento/griegospanchita/2.jpeg",
-        "assets/imagenes/emprendimiento/griegospanchita/3.jpeg",
-        "assets/imagenes/emprendimiento/griegospanchita/4.jpeg"
+        "/fraternidad/assets/imagenes/emprendimiento/griegospanchita/1.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/griegospanchita/2.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/griegospanchita/3.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/griegospanchita/4.jpeg"
       ]
     },
     {
       "id": 4,
       "nombre": "Guabana",
-      "imagenes": ["assets/imagenes/emprendimiento/guabana/1.jpeg"]
+      "imagenes": ["/fraternidad/assets/imagenes/emprendimiento/guabana/1.jpeg"]
     },
     {
       "id": 5,
       "nombre": "P.A.M",
       "imagenes": [
-        "assets/imagenes/emprendimiento/pam/1.jpeg",
-        "assets/imagenes/emprendimiento/pam/2.jpeg"
+        "/fraternidad/assets/imagenes/emprendimiento/pam/1.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/pam/2.jpeg"
       ]
     },
     {
       "id": 6,
       "nombre": "Sayfer Yogurt",
       "imagenes": [
-        "assets/imagenes/emprendimiento/saifer/1.jpeg",
-        "assets/imagenes/emprendimiento/saifer/2.jpeg",
-        "assets/imagenes/emprendimiento/saifer/3.jpeg",
-        "assets/imagenes/emprendimiento/saifer/4.jpeg"
+        "/fraternidad/assets/imagenes/emprendimiento/saifer/1.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/saifer/2.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/saifer/3.jpeg",
+        "/fraternidad/assets/imagenes/emprendimiento/saifer/4.jpeg"
       ]
     }
   ]

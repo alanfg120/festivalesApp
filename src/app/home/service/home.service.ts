@@ -10,10 +10,10 @@ export class HomeService {
   constructor(private http: HttpClient) {}
 
   getdatos(): Observable<any> {
-    return this.http.get('assets/datos/datos.json');
+    return this.http.get('/fraternidad/assets/datos/datos.json');
   }
 
   getImagen(): Observable<any> {
-    return this.http.get('assets/datos/datos.json');
+    return this.http.get('/fraternidad/assets/datos/datos.json');
   }
 }

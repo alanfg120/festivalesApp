@@ -19,6 +19,11 @@
     "@angular/platform-browser": "~10.0.11",
     "@angular/platform-browser-dynamic": "~10.0.11",
     "@angular/router": "~10.0.11",
+    "@popperjs/core": "^2.5.3",
+    "bootstrap": "^4.5.2",
+    "hammerjs": "^2.0.8",
+    "jquery": "^3.5.1",
+    "ngx-gallery": "^5.10.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"

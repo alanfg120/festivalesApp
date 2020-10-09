@@ -1,0 +1,15 @@
+<div class="contenedor">
+
+  <div class="spinner-border text-light" role="status" *ngIf="loading">
+    <span class="sr-only">Loading...</span>
+  </div>
+  <img
+    [src]="image"
+    alt=""
+    srcset=""
+    *ngIf="!loading"
+    class="animate__animated animate__fadeInLeft"
+  />
+ 
+</div>
+<i class="float mdi mdi-arrow-left-bold" routerLink="/"></i>

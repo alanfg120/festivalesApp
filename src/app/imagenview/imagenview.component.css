@@ -1,0 +1,41 @@
+.contenedor {
+  background-color: #000000b7;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 700px;
+  height: 700px;
+}
+.float {
+    display: block;
+    position: fixed;
+    float: right;
+    top: 20px;
+    left: 30px;
+    color:white;
+    font-size: 30px;
+    cursor: pointer;
+  }
+@media only screen and (max-width: 1120px) {
+  img {
+    width: 100vw;
+    height: 50vh;
+  }
+  .float {
+    display: block;
+    position: fixed;
+    float: right;
+    top: 20px;
+    left: 10px;
+    color:white;
+    font-size: 30px;
+    cursor: pointer;
+  }
+}
